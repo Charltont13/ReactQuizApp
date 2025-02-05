@@ -32,6 +32,10 @@ li {
   border-radius: 20px;
   font-size: 20px;
   font-family: 'Arial', sans-serif; /* Random font family */
+
+}
+li:hover {
+  cursor: pointer;
 }
 
 .question-text {
