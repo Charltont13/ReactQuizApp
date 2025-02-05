@@ -25,5 +25,4 @@ describe('App component', () => {
     expect(getByText('Question: 1 out of 10')).toBeInTheDocument();
   });
 
-  // Add more tests based on your requirements
 });
